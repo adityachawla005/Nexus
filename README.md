@@ -1,2 +1,2 @@
 # Nexus
-#an online metaverse plaftofmr for varying prices in developement right now.
+## an online metaverse plaftform for varying prices in developement right now.
